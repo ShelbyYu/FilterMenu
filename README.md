@@ -12,12 +12,10 @@ This is a library project with a custom view that implements  concept of  Filter
      [![Youtube Video](http://img.youtube.com/vi/HClK9Ams6gM/0.jpg)](http://www.youtube.com/watch?v=HClK9Ams6gM)
      
 ## Futures
- - Easy to set it's position
  - Detect edge automatically
  
 ## Getting Started
- - Download the source to use it as library project, or grab via Maven
- - 
+ - Download the source to use it as library project, or grab via Maven(__Current not avaliable__)
  ```xml
  <dependency>
    <groupId>com.linroid.filtermenu</groupId>
@@ -26,7 +24,7 @@ This is a library project with a custom view that implements  concept of  Filter
    <type>aar</type>
  </dependency>
  ```
- or Gradle
+ or Gradle (__Current not avaliable__)
  
  ```
  compile 'com.linroid.filtermenu:library:0.1.1@aar'
